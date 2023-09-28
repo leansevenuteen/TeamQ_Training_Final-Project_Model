@@ -1,0 +1,1 @@
+https://github.com/unsw-cse-soc/Vul_Word2Vec/blob/master/vulner_embedding.bin
